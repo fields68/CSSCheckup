@@ -1,0 +1,37 @@
+body {
+    background-color: #357DED;
+    margin: 0;
+    font-family: sans-serif;
+    display: flex;
+    height: 100vh;
+}
+#container {
+    margin: auto;
+    padding: .1rem;
+    background-color: #56EEF4;
+    border: solid 1px gray;
+    border-radius: 5px;
+    box-shadow: 
+        0 4px 8px 0 rgba(0, 0, 0, 0.2),
+        0 6px 20px 0 rgba(0, 0, 0, .5);
+}
+
+.smImage{
+    width: 20%;
+    float: left;
+    text-align: center;
+}
+
+.information {
+    width: 80%;
+    float: right;
+    background-color: #F7A9A8;
+    border-radius: 10px;
+}
+
+p {
+    width: 80%;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+}
