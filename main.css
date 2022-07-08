@@ -1,14 +1,14 @@
 body {
-    background-color: #357DED;
+    background-color: #EF798A;
     margin: 0;
-    font-family: sans-serif;
+    font-family: 'Edu QLD Beginner', cursive, sans-serif;
     display: flex;
     height: 100vh;
 }
 #container {
     margin: auto;
-    padding: .1rem;
-    background-color: #56EEF4;
+    padding: 4rem;
+    background-color: #E9FAE3;
     border: solid 1px gray;
     border-radius: 5px;
     box-shadow: 
@@ -30,8 +30,8 @@ body {
 }
 
 p {
-    width: 80%;
-    text-align: center;
-    padding: 1rem;
+    width: auto;
+    text-align: justify;
+    font-size: larger;
     margin: 1rem;
 }
